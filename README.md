@@ -1,4 +1,4 @@
-#JIRA 6 Essentials		 [Video]
+## JIRA 6 Essentials		 [Video]
 This is the code repository for JIRA 6 Essentials	
 ## About the Video Course
 JIRA is a proprietary enterprise software product, developed by Atlassian, commonly used for bug tracking, issue tracking, and project management. JIRA is used as a way to manage bug and issue tracking and project management for large-scale projects.
